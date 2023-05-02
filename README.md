@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **selvakumard274@gmail.com**
 
-- 📄 Know about my experiences [To check my projects](To check my projects)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/selvakumar-d-552759227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selvakumar-dharmalingam" height="30" width="40" /></a>
